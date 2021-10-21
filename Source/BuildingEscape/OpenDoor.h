@@ -23,6 +23,8 @@ protected:
 public:
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction *ThisTickFunction) override;
+	void OpenDoor(float DeltaTime);
+	void CloseDoor(float DeltaTime);
 
 private:
 	float InitialYaw;
@@ -36,4 +38,7 @@ private:
 
 	UPROPERTY(EditAnywhere)
 	AActor *ActorThatOpen;
+
+	float DoorLastOpened = 0.f;
+	float DoorCloseDelay = .5f;
 };
