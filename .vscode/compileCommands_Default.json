@@ -1,0 +1,47 @@
+[
+    {
+        "file": "D:\\\\Unreal Projects\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\BuildingEscape.Build.cs",
+        "command": "cl.exe @\"D:\\Unreal Projects\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.210.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Unreal Projects\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\BuildingEscape.cpp",
+        "command": "cl.exe @\"D:\\Unreal Projects\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.210.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Unreal Projects\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\BuildingEscape.h",
+        "command": "cl.exe @\"D:\\Unreal Projects\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.210.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Unreal Projects\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\BuildingEscapeGameModeBase.cpp",
+        "command": "cl.exe @\"D:\\Unreal Projects\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.210.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Unreal Projects\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\BuildingEscapeGameModeBase.h",
+        "command": "cl.exe @\"D:\\Unreal Projects\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.210.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Unreal Projects\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\WorldPossition.cpp",
+        "command": "cl.exe @\"D:\\Unreal Projects\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.210.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "D:\\\\Unreal Projects\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\WorldPossition.h",
+        "command": "cl.exe @\"D:\\Unreal Projects\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.210.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Unreal Projects\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\OpenDoor.cpp",
+        "command": "cl.exe @\"D:\\Unreal Projects\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.210.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "d:\\\\Unreal Projects\\\\BuildingEscape\\\\Source\\\\BuildingEscape\\\\OpenDoor.h",
+        "command": "cl.exe @\"D:\\Unreal Projects\\BuildingEscape\\.vscode\\compileCommands_Default\\BuildingEscape.210.rsp\"",
+        "directory": "D:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    }
+]
